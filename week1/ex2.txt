@@ -1,0 +1,16 @@
+ 1009  mkdir /week1
+ 1010  mkdir week1
+ 1011  cd week1
+ 1012  ls /usr/bin | grep \.gcc > list.txt 
+ 1013  ls /usr/bin | grep \.hpp > hpps.txt 
+ 1014  ls /usr/bin | grep ".*\.gcc$" gccs.txt
+ 1015  ls /usr/bin | grep ".*\.gcc$" > gccs.txt
+ 1016  ls /usr/bin | grep ".*\.hpp$" > hpps.txt
+ 1017  ls /usr/bin > gccs.txt | grep 
+ 1018  ls /usr/bin > gccs.txt | grep "gcc" 
+ 1019  ls /usr/bin 
+ 1020  ls usr/bin/ | grep "gcc" > gccs.txt
+ 1021  cd ~
+ 1022  ls
+ 1023  cd week1
+ 1024  ls /usr/bin/ | grep "gcc" > gccs.txt
